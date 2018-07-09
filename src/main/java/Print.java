@@ -2,9 +2,9 @@ public class Print {
 
     public static void main(String[]args){
 
-        HelloWorld helloWorld = new HelloWorld();
+        HelloWorld helloWorldg = new HelloWorld();
 
-        helloWorld.sayHello();
+        helloWorldg.sayHello();
     }
 
 }
